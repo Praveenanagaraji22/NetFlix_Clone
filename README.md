@@ -1,5 +1,5 @@
 # NetFlix_Clone
-## Date:
+## Date: 10/7/25
 ## Objective:
 To create a modern, responsive navigation bar using CSS Flexbox, mimicking real-world websites like Netflix. This helps reinforce alignment, spacing, and layout structuring using Flexbox properties.
 
@@ -35,7 +35,11 @@ Make it responsive using flex-wrap or media queries.
 
 Fix the nav bar to top with position: sticky.
 ## HTML Code:
+```
+```
 ## CSS Code:
+```
+```
 ## Output:
 
 ## Result:
